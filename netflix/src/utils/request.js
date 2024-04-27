@@ -1,4 +1,4 @@
-const { MovieSharp } = require("@mui/icons-material")
+
 
 const API_key = process.env.REACT_APP_API_KEY
 const requests = {
@@ -16,3 +16,4 @@ const requests = {
 
 
 export default requests;
+
