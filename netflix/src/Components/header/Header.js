@@ -1,8 +1,8 @@
 import React from "react";
 import "./header.css";
 import N_logo from "./../../asset/img/Logo1.png";
-import SearchIcon from "@mui/icons-material/Search";
-import NotificationsIcon from "@mui/icons-material/Notifications";
+// import SearchIcon from "@mui/icons-material/Search";
+// import NotificationsIcon from "@mui/icons-material/Notifications";
 
 const Header = () => {
   return (

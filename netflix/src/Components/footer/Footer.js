@@ -2,7 +2,6 @@ import React from "react";
 import "./footer.css";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import InstagramIcon from "@mui/icons-material/Instagram";
-
 import YouTubeIcon from "@mui/icons-material/YouTube";
 
 const Footer = () => {
@@ -11,10 +10,9 @@ const Footer = () => {
       <div className="footer-inner-container">
         {/* footer icons */}
         <div className="footer-icons">
-          <h1>Icons </h1>
-          {/* <FacebookIcon />
+          <FacebookIcon />
           <InstagramIcon />
-          <YouTubeIcon /> */}
+          <YouTubeIcon />
         </div>
 
         {/* footer dtas audio */}
